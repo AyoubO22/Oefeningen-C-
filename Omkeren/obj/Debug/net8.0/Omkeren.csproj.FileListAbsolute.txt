@@ -1,0 +1,14 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/bin/Debug/net8.0/Omkeren
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/bin/Debug/net8.0/Omkeren.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/bin/Debug/net8.0/Omkeren.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/bin/Debug/net8.0/Omkeren.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/bin/Debug/net8.0/Omkeren.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/refint/Omkeren.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/ref/Omkeren.dll
