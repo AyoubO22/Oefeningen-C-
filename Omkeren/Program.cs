@@ -1,4 +1,4 @@
-﻿namespace Oefening_1
+﻿namespace Omkeren
 {
     // static werd aangeraden door rider
     static class Program

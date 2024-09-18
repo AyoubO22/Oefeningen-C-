@@ -12,3 +12,4 @@
 /Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.pdb
 /Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.genruntimeconfig.cache
 /Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/ref/Omkeren.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Omkeren/obj/Debug/net8.0/Omkeren.sourcelink.json
