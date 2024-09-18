@@ -1,0 +1,15 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/bin/Debug/net8.0/Array
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/bin/Debug/net8.0/Array.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/bin/Debug/net8.0/Array.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/bin/Debug/net8.0/Array.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/bin/Debug/net8.0/Array.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.sourcelink.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/refint/Array.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/Array.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Array/obj/Debug/net8.0/ref/Array.dll
