@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stapel", "Stapel\Stapel.csproj", "{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullables", "Nullables\Nullables.csproj", "{07CB65D2-02F0-4357-8C15-CAA0E7E37DD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CB65D2-02F0-4357-8C15-CAA0E7E37DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CB65D2-02F0-4357-8C15-CAA0E7E37DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CB65D2-02F0-4357-8C15-CAA0E7E37DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CB65D2-02F0-4357-8C15-CAA0E7E37DD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/bin/Debug/net8.0/Stapel
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/bin/Debug/net8.0/Stapel.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/bin/Debug/net8.0/Stapel.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/bin/Debug/net8.0/Stapel.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/bin/Debug/net8.0/Stapel.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.sourcelink.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/refint/Stapel.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/Stapel.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Stapel/obj/Debug/net8.0/ref/Stapel.dll

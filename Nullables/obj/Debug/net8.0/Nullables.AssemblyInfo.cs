@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Stapel")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Nullables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cdf3d6dda484091e46f5784f37f0e575674dac1")]
-[assembly: System.Reflection.AssemblyProductAttribute("Stapel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Stapel")]
+[assembly: System.Reflection.AssemblyProductAttribute("Nullables")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Nullables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
