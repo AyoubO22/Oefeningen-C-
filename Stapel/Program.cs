@@ -17,8 +17,7 @@
             {
                 Console.WriteLine(VARIABLE);
             }
-
-            // Probeer een waarde toe te voegen aan een vijfde element
+            
             numbers.Add(5);
             numbers.Add(6);
             numbers.Add(7);
@@ -31,12 +30,9 @@
                 Console.WriteLine(VARIABLE);
             }
             
-
-            // Verwijder het laatste element
+            
             numbers.RemoveAt(numbers.Count - 1);
-
-
-            // Print de array om te controleren of het laatste element correct is verwijderd
+            
 
             Console.WriteLine("Derde array:");
             

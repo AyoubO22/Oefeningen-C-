@@ -1,0 +1,15 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/bin/Debug/net8.0/Accessors
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/bin/Debug/net8.0/Accessors.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/bin/Debug/net8.0/Accessors.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/bin/Debug/net8.0/Accessors.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/bin/Debug/net8.0/Accessors.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.sourcelink.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/refint/Accessors.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/Accessors.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Accessors/obj/Debug/net8.0/ref/Accessors.dll
