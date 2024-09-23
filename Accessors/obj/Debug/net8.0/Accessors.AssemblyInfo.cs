@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Nullables")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Accessors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a2b23191ac624126ae934a7b0cc6941c264fa55")]
-[assembly: System.Reflection.AssemblyProductAttribute("Nullables")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Nullables")]
+[assembly: System.Reflection.AssemblyProductAttribute("Accessors")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Accessors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

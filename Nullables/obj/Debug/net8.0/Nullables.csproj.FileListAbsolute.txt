@@ -1,0 +1,15 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/bin/Debug/net8.0/Nullables
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/bin/Debug/net8.0/Nullables.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/bin/Debug/net8.0/Nullables.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/bin/Debug/net8.0/Nullables.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/bin/Debug/net8.0/Nullables.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.sourcelink.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/refint/Nullables.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/Nullables.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Nullables/obj/Debug/net8.0/ref/Nullables.dll
