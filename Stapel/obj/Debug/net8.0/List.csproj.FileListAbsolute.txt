@@ -1,0 +1,15 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/bin/Debug/net8.0/List
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/bin/Debug/net8.0/List.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/bin/Debug/net8.0/List.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/bin/Debug/net8.0/List.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/bin/Debug/net8.0/List.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.sourcelink.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/refint/List.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/List.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/List/obj/Debug/net8.0/ref/List.dll
