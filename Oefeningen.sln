@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omkeren", "Omkeren\Omkeren.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{C66DDBB0-DF6C-496D-8348-7652DF29484A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stapel", "Stapel\Stapel.csproj", "{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C66DDBB0-DF6C-496D-8348-7652DF29484A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C66DDBB0-DF6C-496D-8348-7652DF29484A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C66DDBB0-DF6C-496D-8348-7652DF29484A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E687921D-5D38-48CF-BAEF-2A9917BD4AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

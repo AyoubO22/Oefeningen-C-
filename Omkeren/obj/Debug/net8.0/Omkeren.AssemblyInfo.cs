@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Omkeren")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e63d9cbdca1ca0d1314adddc9d432c4587444fd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f7ae0f1118c2c25de75e7c5ed18cfccf6d6f42")]
 [assembly: System.Reflection.AssemblyProductAttribute("Omkeren")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Omkeren")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
