@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullables", "Nullables\Null
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accessors", "Accessors\Accessors.csproj", "{9AA0A96D-7E30-4462-958B-67820E73FEF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{5A3A9285-76FC-4776-A3C5-F7B64E6A38CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{9AA0A96D-7E30-4462-958B-67820E73FEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA0A96D-7E30-4462-958B-67820E73FEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA0A96D-7E30-4462-958B-67820E73FEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3A9285-76FC-4776-A3C5-F7B64E6A38CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3A9285-76FC-4776-A3C5-F7B64E6A38CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3A9285-76FC-4776-A3C5-F7B64E6A38CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3A9285-76FC-4776-A3C5-F7B64E6A38CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
