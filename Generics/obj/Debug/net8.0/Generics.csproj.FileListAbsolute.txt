@@ -1,0 +1,15 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/bin/Debug/net8.0/Generics
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/bin/Debug/net8.0/Generics.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/bin/Debug/net8.0/Generics.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/bin/Debug/net8.0/Generics.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/bin/Debug/net8.0/Generics.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.sourcelink.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/refint/Generics.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/Generics.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Generics/obj/Debug/net8.0/ref/Generics.dll
