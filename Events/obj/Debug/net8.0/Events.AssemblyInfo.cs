@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Wekker")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Events")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34fdc3a83dfba9f8d6bc2d3517f5ae7094bf7b72")]
-[assembly: System.Reflection.AssemblyProductAttribute("Wekker")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Wekker")]
+[assembly: System.Reflection.AssemblyProductAttribute("Events")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Events")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

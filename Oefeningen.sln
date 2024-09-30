@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wekker", "Wekker\Wekker.csproj", "{52A5D790-286E-44EA-8CEF-60DEE9D689DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{CBE1E567-DC7C-4F8A-95F0-EB5090CAB8E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{52A5D790-286E-44EA-8CEF-60DEE9D689DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52A5D790-286E-44EA-8CEF-60DEE9D689DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52A5D790-286E-44EA-8CEF-60DEE9D689DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE1E567-DC7C-4F8A-95F0-EB5090CAB8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE1E567-DC7C-4F8A-95F0-EB5090CAB8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE1E567-DC7C-4F8A-95F0-EB5090CAB8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE1E567-DC7C-4F8A-95F0-EB5090CAB8E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

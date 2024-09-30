@@ -1,0 +1,15 @@
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/bin/Debug/net8.0/Wekker
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/bin/Debug/net8.0/Wekker.deps.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/bin/Debug/net8.0/Wekker.runtimeconfig.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/bin/Debug/net8.0/Wekker.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/bin/Debug/net8.0/Wekker.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.AssemblyInfoInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.AssemblyInfo.cs
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.csproj.CoreCompileInputs.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.sourcelink.json
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/refint/Wekker.dll
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.pdb
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/Wekker.genruntimeconfig.cache
+/Users/ayoubouaadoud/RiderProjects/Oefeningen/Wekker/obj/Debug/net8.0/ref/Wekker.dll
